@@ -1,2 +1,2 @@
 # ML
-机器学习中的一些基础代码
+Some basic algorithm implementation in machine learning
